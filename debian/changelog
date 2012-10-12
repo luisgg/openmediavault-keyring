@@ -1,8 +1,9 @@
-openmediavault-keyring (0.1-0aurex1) precise; urgency=low
+openmediavault-keyring (0.1+svn90-0aurex1) precise; urgency=low
 
-  * Rebbuild for aurex 12.04
+  * New upstream snapshot, based on 'trunk' revision 90 (2012-10-12)
+  * Merge with latest upstream sources and rebuild for aurex 12.04
 
- -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Thu, 11 Oct 2012 10:39:09 +0200
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Fri, 12 Oct 2012 21:23:37 +0200
 
 openmediavault-keyring (0.1) stable; urgency=low
 
